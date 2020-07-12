@@ -1,0 +1,6 @@
+{   "name": "mebel",
+    "require": {
+        "catfan/medoo": "^1.7",
+        "yandex-money/yandex-checkout-sdk-php": "^1.6"
+    }
+}
